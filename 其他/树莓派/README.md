@@ -1,0 +1,6 @@
+[初始化配置](/%E5%85%B6%E4%BB%96/%E6%A0%91%E8%8E%93%E6%B4%BE/%E5%88%9D%E5%A7%8B%E5%8C%96%E9%85%8D%E7%BD%AE.md)
+
+[安装docker](/%E5%85%B6%E4%BB%96/%E6%A0%91%E8%8E%93%E6%B4%BE/%E5%AE%89%E8%A3%85docker.md)
+
+[安装配置samba服务](/%E5%85%B6%E4%BB%96/%E6%A0%91%E8%8E%93%E6%B4%BE/%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AEsamba%E6%9C%8D%E5%8A%A1.md)
+
