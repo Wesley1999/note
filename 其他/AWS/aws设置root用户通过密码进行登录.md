@@ -1,18 +1,18 @@
 设置root密码
 
-```
+```shell
 sudo passwd root
 ```
 
 切换到root用户
 
-```
+```shell
 su root
 ```
 
 编辑ssh配置
 
-```
+```shell
 vi /etc/ssh/sshd_config
 ```
 
@@ -20,7 +20,7 @@ vi /etc/ssh/sshd_config
 
 重启sshd
 
-```
+```shell
 service sshd restart
 ```
 
