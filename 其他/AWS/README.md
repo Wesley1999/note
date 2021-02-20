@@ -1,0 +1,2 @@
+[aws设置root用户通过密码进行登录](/%E5%85%B6%E4%BB%96/AWS/aws%E8%AE%BE%E7%BD%AEroot%E7%94%A8%E6%88%B7%E9%80%9A%E8%BF%87%E5%AF%86%E7%A0%81%E8%BF%9B%E8%A1%8C%E7%99%BB%E5%BD%95.md)
+

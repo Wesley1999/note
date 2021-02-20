@@ -7,6 +7,7 @@
 * [WEB & 应用服务器/](/WEB%20%26%20%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/)
 * [Windows/](/Windows/)
 * [其他/](/%E5%85%B6%E4%BB%96/)
+  * [AWS/](/%E5%85%B6%E4%BB%96/AWS/)
   * [Tampermonkey/](/%E5%85%B6%E4%BB%96/Tampermonkey/)
   * [raid](/%E5%85%B6%E4%BB%96/raid)
   * [架构/](/%E5%85%B6%E4%BB%96/%E6%9E%B6%E6%9E%84/)

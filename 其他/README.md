@@ -1,3 +1,5 @@
+[AWS/](/%E5%85%B6%E4%BB%96/AWS/)
+
 [Tampermonkey/](/%E5%85%B6%E4%BB%96/Tampermonkey/)
 
 [raid](/%E5%85%B6%E4%BB%96/raid.md)
