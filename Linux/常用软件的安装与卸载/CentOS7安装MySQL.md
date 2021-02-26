@@ -135,12 +135,10 @@ service mysqld restart
 export PATH=$PATH:/usr/local/mysql/bin
 ```
 
-<!--
 ## 创建软链接
 ```shell
 ln /usr/local/mysql/bin/mysql /usr/bin/mysql
 ```
--->
 
 
 ## 启动、停止、重启的命令
