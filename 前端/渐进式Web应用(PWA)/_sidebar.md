@@ -13,7 +13,6 @@
   * [Node.js/](/%E5%89%8D%E7%AB%AF/Node.js/)
   * [Vue.js/](/%E5%89%8D%E7%AB%AF/Vue.js/)
   * [jQuery/](/%E5%89%8D%E7%AB%AF/jQuery/)
-  * [jQuery](/%E5%89%8D%E7%AB%AF/jQuery)
   * [基础/](/%E5%89%8D%E7%AB%AF/%E5%9F%BA%E7%A1%80/)
   * [渐进式Web应用(PWA)/](/%E5%89%8D%E7%AB%AF/%E6%B8%90%E8%BF%9B%E5%BC%8FWeb%E5%BA%94%E7%94%A8%28PWA%29/)
     * [适配移动端](/%E5%89%8D%E7%AB%AF/%E6%B8%90%E8%BF%9B%E5%BC%8FWeb%E5%BA%94%E7%94%A8%28PWA%29/%E9%80%82%E9%85%8D%E7%A7%BB%E5%8A%A8%E7%AB%AF)

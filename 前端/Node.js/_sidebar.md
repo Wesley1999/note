@@ -14,7 +14,6 @@
     * [一个简单的Node.js接口服务器](/%E5%89%8D%E7%AB%AF/Node.js/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84Node.js%E6%8E%A5%E5%8F%A3%E6%9C%8D%E5%8A%A1%E5%99%A8)
   * [Vue.js/](/%E5%89%8D%E7%AB%AF/Vue.js/)
   * [jQuery/](/%E5%89%8D%E7%AB%AF/jQuery/)
-  * [jQuery](/%E5%89%8D%E7%AB%AF/jQuery)
   * [基础/](/%E5%89%8D%E7%AB%AF/%E5%9F%BA%E7%A1%80/)
   * [渐进式Web应用(PWA)/](/%E5%89%8D%E7%AB%AF/%E6%B8%90%E8%BF%9B%E5%BC%8FWeb%E5%BA%94%E7%94%A8%28PWA%29/)
   * [跨域](/%E5%89%8D%E7%AB%AF/%E8%B7%A8%E5%9F%9F)
