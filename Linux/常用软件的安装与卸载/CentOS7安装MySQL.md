@@ -131,11 +131,13 @@ service mysqld restart
 ```
 
 ## 配置到环境变量
+
 ```shell
 export PATH=$PATH:/usr/local/mysql/bin
 ```
 
 ## 创建软链接
+
 ```shell
 ln /usr/local/mysql/bin/mysql /usr/bin/mysql
 ```
@@ -149,9 +151,16 @@ service mysqld stop
 service mysqld restart
 ```
 
+## 解决Can't connect to local MySQL server through socket '/tmp/mysql.sock'
+
+```shell
+ln /var/lib/mysql/mysql.sock /tmp/mysql.sock
+```
+
 
 ## Reference
 
 [Linux下安装MySQL](https://www.jianshu.com/p/f4a98a905011)
 [Linux安装MySQL时候出现log-error set to '/var/log/mariadb/mariadb.log', however file don't exists.](https://blog.csdn.net/BertonYip/article/details/80829524)
 [libaio.so.1: cannot open shared object file解决方法](https://blog.csdn.net/lzwglory/article/details/54808074)
+[亲测有效，解决Can 't connect to local MySQL server through socket '/tmp/mysql.sock '(2) ";](https://blog.csdn.net/hjf161105/article/details/78850658)
