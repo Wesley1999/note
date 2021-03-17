@@ -8,6 +8,7 @@
 * [Windows/](/Windows/)
   * [bat语法](/Windows/bat%E8%AF%AD%E6%B3%95)
   * [vbs语法](/Windows/vbs%E8%AF%AD%E6%B3%95)
+  * [以app形式启动网页](/Windows/%E4%BB%A5app%E5%BD%A2%E5%BC%8F%E5%90%AF%E5%8A%A8%E7%BD%91%E9%A1%B5)
   * [去除“快捷方式”字样](/Windows/%E5%8E%BB%E9%99%A4%E2%80%9C%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E2%80%9D%E5%AD%97%E6%A0%B7)
   * [将压缩包变成图片](/Windows/%E5%B0%86%E5%8E%8B%E7%BC%A9%E5%8C%85%E5%8F%98%E6%88%90%E5%9B%BE%E7%89%87)
   * [清理DNS缓存](/Windows/%E6%B8%85%E7%90%86DNS%E7%BC%93%E5%AD%98)
